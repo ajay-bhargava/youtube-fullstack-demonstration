@@ -51,7 +51,7 @@ export async function POST(req: Request) {
         ${transcript.full_text}
 
         Generate a compelling tweet (maximum 280 characters) that summarizes the main point or most interesting aspect of this video.
-        The tweet should be engaging and make people want to watch the video.
+        The tweet should be engaging and make people want to watch the video. Don't ever use the word delve. Use the shitpoasting and Gen-Z brainrot to make the tweet more engaging.
         
         Return a JSON response with this structure:
         {
