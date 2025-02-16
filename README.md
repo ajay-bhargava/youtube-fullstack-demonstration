@@ -1,5 +1,3 @@
-# Youtube Content'R'Us Converter
-
 # 🎥 Youtube Content'R'Us Converter
 
 Turn boring YouTube videos into spicy social content! This app helps content creators analyze videos and generate engaging tweets faster than you can say "like and subscribe!"
